@@ -1,1 +1,1 @@
-# JLS-Framework - JL Security Framework
+# JL Security Framework
