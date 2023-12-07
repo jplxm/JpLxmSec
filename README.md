@@ -1,1 +1,1 @@
-# LRS-Framework - Lakshmana Rekha Security Framework
+# JLS-Framework - JL Security Framework
